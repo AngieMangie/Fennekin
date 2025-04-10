@@ -15,10 +15,10 @@ module.exports = {
   errorLog: "", 
   nodes: [
    {
-  "identifier": "INZEWORLD.COM (DE)",
-  "password": "saher.inzeworld.com",
-  "host": "lava.inzeworld.com",
-  "port": 3128,
+  "identifier": "Musik Hosting",
+  "password": "wwweasycodero",
+  "host": "lavalink-v2.pericsq.ro",
+  "port": 6677,
   "secure": false
     }
   ]
